@@ -3,8 +3,6 @@
 <a href="https://github.com/pranav004?tab=followers"><img src="https://img.shields.io/github/followers/pranav004?label=Followers&style=social" alt="GitHub Badge"></a>
 <ul>
 <li> 🌱 I’m currently pursuing B.Tech in Computer Engineering at VIT-AP University </li>
-<li>🔭 I’m currently working on FULL STACK DEVELOPMENT</li> 
 <li> 💬 Ask me about anything, I am happy to help </li>
 <li> ⚡ Fun fact : The more you GRIND, the more you GET💫</li>
-<li>📄 Know about my experiences [ Resume and CV ](julururohith.blogspot.com)</li>
 </ul>
