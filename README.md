@@ -9,5 +9,5 @@
 <li>📄 Know about my experiences [ Resume and CV ](julururohith.blogspot.com)</li>
 </ul>
 <a href="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranav004&theme=dark&layout=compact">
-    <img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranav004&theme=dark&layout=compact" /> 
+    <img width="400" height = "400" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranav004&theme=dark&layout=compact" /> 
   </a>
